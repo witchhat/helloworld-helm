@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helloworld:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-26T14:00:00.617703+09:00"
+    description: A Helm chart for Kubernetes
+    digest: bd1959f4b2bb2426a7986cdd2736361c56dc66c68e955fb993bf83fc22675f23
+    name: helloworld
+    type: application
+    urls:
+    - helloworld-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-26T14:00:00.617339+09:00"
